@@ -1,0 +1,21 @@
+Git commands:
+2) if im in root folder in git dos:
+3) "ls -la" command : it shows all files
+4) "git status" command: it shows which status we have "for example it says im up to date"
+5) "Clear" command is cls
+6)We create a file in the root where .git exist
+7) "ls" shows all file
+8) "Clear" command is cls
+9) "git status" command: it shows which status we have "a file is added"
+10)git add --all "adds the file"
+11) "git status" command: it shows which status we have "it says some changes must be commited"
+12) git commit -m "message goes here"
+13) git push "send it online"
+Lets remove file after removing we must also use git add git commit and git push
+14) rm file.txt => remove file text
+15)git add -all
+16)git commit -m "removed file" 
+17)git push
+
+
+
