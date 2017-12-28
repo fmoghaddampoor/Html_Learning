@@ -16,6 +16,11 @@ Lets remove file after removing we must also use git add git commit and git push
 15)git add -all
 16)git commit -m "removed file" 
 17)git push
-
-
+'*******************************************************************************
+18)pwd :shows current active directory
+19)cd // you can go up one folder
+20)mkdir hello => creates a directory with name of hello
+21) cd temporarryfolder/ => goes to the folder temporarryfolder
+22)git init =>It initialize git repository
+23)
 
