@@ -22,5 +22,22 @@ Lets remove file after removing we must also use git add git commit and git push
 20)mkdir hello => creates a directory with name of hello
 21) cd temporarryfolder/ => goes to the folder temporarryfolder
 22)git init =>It initialize git repository
-23)
-
+'*******************************************************************************
+pwd : parent workjing directory
+cd : change directory
+cd /foldername    going into lower level
+cd ../  going upper level
+ls :list
+ls _la : list all
+clear :cls
+rm -rf file name :remove recursively forced
+rm file name : remove file name
+rm rf folder name : remove folder name
+mkdir dir-name : create folder
+cat file name: prints content of file
+'*******************************************************************************
+ ls _la : list all : gives us info on read write execute permission 
+'*******************************************************************************
+cd ~ > go back to home user directory
+cd temp> goes to home user temp directory
+cd without anything goes back to home user dir
