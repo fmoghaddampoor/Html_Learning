@@ -41,3 +41,20 @@ cat file name: prints content of file
 cd ~ > go back to home user directory
 cd temp> goes to home user temp directory
 cd without anything goes back to home user dir
+'*******************************************************************************
+.gitignore file if is in a dir anything in the content of it will be ignored>
+*.ogg
+*.mp4
+...
+comment in .gitignore is #
+#*.mp4  
+to create a folder we use name of what it is in repo
+'*******************************************************************************
+git init is doing magic
+'*******************************************************************************
+diff between:
+git add filename : add file name
+git add --all : parent folder only
+git add . : subfolders too
+'*******************************************************************************
+git log : shows all commits
