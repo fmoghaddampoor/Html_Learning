@@ -21,6 +21,12 @@ Lets remove file after removing we must also use git add git commit and git push
 19)cd // you can go up one folder
 20)mkdir hello => creates a directory with name of hello
 21) cd temporarryfolder/ => goes to the folder temporarryfolder
+'*******************************************************************************
+connect github with a local repo:
+create new repo in github website
+set pwd to local repo
+git remote add origin .... .git  : last part from githubaddress
+git push-u origin master
 22)git init =>It initialize git repository
 '*******************************************************************************
 pwd : parent workjing directory
